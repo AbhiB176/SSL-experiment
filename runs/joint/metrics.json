@@ -1,0 +1,30 @@
+{
+  "name": "joint",
+  "type": "scratch+joint",
+  "label_frac": 1.0,
+  "n_labelled": 1920,
+  "val_acc": 0.8062500357627869,
+  "val_loss": 0.6871850490570068,
+  "train_acc_clean": 1.0,
+  "gap": 0.19374996423721313,
+  "val_acc_tta": 0.8020833730697632,
+  "per_class_val": {
+    "Bedroom": 0.692307710647583,
+    "Coast": 0.7878788113594055,
+    "Flower": 0.9354838728904724,
+    "Forest": 0.8620689511299133,
+    "Highway": 0.8214285969734192,
+    "Industrial": 0.7241379022598267,
+    "InsideCity": 0.699999988079071,
+    "Kitchen": 0.6333333253860474,
+    "LivingRoom": 0.7307692170143127,
+    "Mountain": 0.8571428656578064,
+    "Office": 0.75,
+    "OpenCountry": 0.7142857313156128,
+    "Store": 0.8387096524238586,
+    "Street": 1.0,
+    "Suburb": 0.970588207244873,
+    "TallBuilding": 0.8571428656578064
+  },
+  "minutes": 16.7
+}

@@ -1,0 +1,9 @@
+arch: resnet18
+freeze_encoder: true
+aug: none
+steps: 1500
+batch_size: 256
+optimizer: adamw
+lr: 1.0e-3
+weight_decay: 0.0
+warmup_steps: 0

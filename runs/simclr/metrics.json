@@ -1,0 +1,8 @@
+{
+  "name": "simclr",
+  "type": "ssl_pretrain",
+  "knn_val_acc": 0.7104166746139526,
+  "final_ssl_loss": 1.7464521612439836,
+  "epochs": 500,
+  "minutes": 42.3
+}

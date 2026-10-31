@@ -1,0 +1,7 @@
+data/
+runs/**/*.pt
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+experiments_annotated.ipynb
+notes/

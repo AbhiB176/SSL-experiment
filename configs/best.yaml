@@ -1,0 +1,13 @@
+arch: resnet18
+init: runs/simclr/encoder.pt
+steps: 3000
+batch_size: 128
+optimizer: sgd
+lr: 0.1
+encoder_lr_mult: 0.1
+weight_decay: 5.0e-4
+warmup_steps: 150
+aug: sup
+mixup: 0.2
+cutmix: 1.0
+label_smoothing: 0.1

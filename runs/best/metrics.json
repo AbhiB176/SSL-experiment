@@ -1,0 +1,30 @@
+{
+  "name": "best",
+  "type": "finetune",
+  "label_frac": 1.0,
+  "n_labelled": 1920,
+  "val_acc": 0.8416666984558105,
+  "val_loss": 0.6635158658027649,
+  "train_acc_clean": 1.0,
+  "gap": 0.15833330154418945,
+  "val_acc_tta": 0.8541666865348816,
+  "per_class_val": {
+    "Bedroom": 0.8205128312110901,
+    "Coast": 0.8484848737716675,
+    "Flower": 0.9032257795333862,
+    "Forest": 0.931034505367279,
+    "Highway": 0.9285714030265808,
+    "Industrial": 0.6206896305084229,
+    "InsideCity": 0.699999988079071,
+    "Kitchen": 0.6666666865348816,
+    "LivingRoom": 0.7307692170143127,
+    "Mountain": 0.8928571343421936,
+    "Office": 0.875,
+    "OpenCountry": 0.8214285969734192,
+    "Store": 0.774193525314331,
+    "Street": 0.96875,
+    "Suburb": 0.970588207244873,
+    "TallBuilding": 1.0
+  },
+  "minutes": 15.6
+}

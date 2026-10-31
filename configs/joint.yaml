@@ -1,0 +1,10 @@
+arch: resnet18
+steps: 3000
+batch_size: 128
+lr: 0.1
+weight_decay: 5.0e-4
+warmup_steps: 150
+ssl_weight: 1.0
+ssl_aug: ssl
+temperature: 0.2
+proj_dim: 128

@@ -1,0 +1,30 @@
+{
+  "name": "sup_reg",
+  "type": "scratch",
+  "label_frac": 1.0,
+  "n_labelled": 1920,
+  "val_acc": 0.8270833492279053,
+  "val_loss": 0.661341667175293,
+  "train_acc_clean": 1.0,
+  "gap": 0.17291665077209473,
+  "val_acc_tta": 0.8333333730697632,
+  "per_class_val": {
+    "Bedroom": 0.7435897588729858,
+    "Coast": 0.8181818127632141,
+    "Flower": 0.9032257795333862,
+    "Forest": 1.0,
+    "Highway": 0.9285714030265808,
+    "Industrial": 0.6896551847457886,
+    "InsideCity": 0.7666666507720947,
+    "Kitchen": 0.699999988079071,
+    "LivingRoom": 0.7307692170143127,
+    "Mountain": 0.8928571343421936,
+    "Office": 0.8333333134651184,
+    "OpenCountry": 0.7142857313156128,
+    "Store": 0.6451612710952759,
+    "Street": 0.9375,
+    "Suburb": 1.0,
+    "TallBuilding": 0.9285714030265808
+  },
+  "minutes": 8.1
+}
